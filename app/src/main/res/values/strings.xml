@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Inputs_Alets_Pickers</string>
+    <string-array name="arraySpinner">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
